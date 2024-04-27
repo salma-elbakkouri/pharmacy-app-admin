@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "949903719957",
+    "firebase_url": "https://my-pharmacy-application-default-rtdb.firebaseio.com",
+    "project_id": "my-pharmacy-application",
+    "storage_bucket": "my-pharmacy-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949903719957:android:368984b4a5c9ae5d20581c",
+        "android_client_info": {
+          "package_name": "com.example.mypharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949903719957-vu00kv2io7r1a39jlrn9vbf8gp2m5q26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDybHPKuR5UJn6aXvxR1G16b5D5sW1Rq08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949903719957-vu00kv2io7r1a39jlrn9vbf8gp2m5q26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949903719957:android:052b5e0176a9de5820581c",
+        "android_client_info": {
+          "package_name": "com.example.mypharmacyadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949903719957-9k1tipbokcpilg6mp1dqlmbnuvj8lf7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mypharmacyadmin",
+            "certificate_hash": "483b2849427ab5820b8bf878b2d09cdf48be6801"
+          }
+        },
+        {
+          "client_id": "949903719957-vu00kv2io7r1a39jlrn9vbf8gp2m5q26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDybHPKuR5UJn6aXvxR1G16b5D5sW1Rq08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949903719957-vu00kv2io7r1a39jlrn9vbf8gp2m5q26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
